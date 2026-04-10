@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishek-khandait/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/abhishek-khandait/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abhishek-khandait/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
