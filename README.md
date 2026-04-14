@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishek-khandait/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/abhishek-khandait/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abhishek-khandait/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishek-khandait/DSA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
