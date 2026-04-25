@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-khandait/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhishek-khandait/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek-khandait/DSA/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishek-khandait/DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
