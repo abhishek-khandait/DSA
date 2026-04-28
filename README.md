@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishek-khandait/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishek-khandait/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/abhishek-khandait/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/abhishek-khandait/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/abhishek-khandait/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-khandait/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishek-khandait/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhishek-khandait/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/abhishek-khandait/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
