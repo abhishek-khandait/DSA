@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/abhishek-khandait/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/abhishek-khandait/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishek-khandait/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-khandait/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/abhishek-khandait/DSA/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek-khandait/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/abhishek-khandait/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
