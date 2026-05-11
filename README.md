@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhishek-khandait/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhishek-khandait/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhishek-khandait/DSA/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/abhishek-khandait/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-khandait/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhishek-khandait/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek-khandait/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abhishek-khandait/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishek-khandait/DSA/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishek-khandait/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
