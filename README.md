@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhishek-khandait/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek-khandait/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishek-khandait/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhishek-khandait/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishek-khandait/DSA/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/abhishek-khandait/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishek-khandait/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhishek-khandait/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abhishek-khandait/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek-khandait/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhishek-khandait/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-khandait/DSA/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhishek-khandait/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
