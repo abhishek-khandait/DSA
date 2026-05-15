@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhishek-khandait/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhishek-khandait/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhishek-khandait/DSA/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/abhishek-khandait/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-khandait/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-khandait/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhishek-khandait/DSA/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-khandait/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhishek-khandait/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/abhishek-khandait/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/abhishek-khandait/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek-khandait/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhishek-khandait/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhishek-khandait/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-khandait/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhishek-khandait/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
